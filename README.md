@@ -14,7 +14,7 @@ The Exchange is unit tested with Truffle's Test-Framework.
 All of this is also shown in the Course!
 
 
-# Folder Structure
+# Project Folder Structure
 
 * Genesis.json file is in _general files_ folder
 * Diagrams are written in https://www.draw.io - the files are in _general files_ folder
