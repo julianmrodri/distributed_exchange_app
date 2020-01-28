@@ -1,6 +1,5 @@
 pragma solidity ^0.4.0;
 
-// Owned contract.
 contract owned {
     address owner;
 
