@@ -22,7 +22,7 @@ All of this is also shown in the Course!
 
 # Necessary Software
 
-In order to work with the smart contracts and for the course you need
+In order to work with the smart contracts and for the course you need the following software:
 
 1. the Node Package Manager
 2. Truffle
